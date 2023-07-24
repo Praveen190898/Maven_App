@@ -1,7 +1,7 @@
 package com.ashokit.app;
 
 /**
- * Hello world!
+ * Hello!
  *
  */
 public class App 
